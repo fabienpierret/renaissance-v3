@@ -1,0 +1,28 @@
+# Renaissance V3+ - Requirements
+# ML Trading Pipeline with Multi-AI Orchestration
+
+# Core
+polars>=0.20.0
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Machine Learning
+xgboost>=2.0.0
+catboost>=1.2.0
+scikit-learn>=1.3.0
+
+# Feature Engineering
+fracdiff>=1.0.0
+ripser>=0.6.0
+statsmodels>=0.14.0
+
+# Data Sources
+ccxt>=4.0.0
+
+# Apple Silicon
+coremltools>=7.0.0
+
+# Utilities
+python-dateutil>=2.8.0
+loguru>=0.7.0
+
